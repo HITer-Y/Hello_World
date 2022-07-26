@@ -1,1 +1,2 @@
 txt_test
+1 byte = 8 bit (B, b)
